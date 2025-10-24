@@ -19,7 +19,7 @@ Provides clean abstractions for common endpoints like **Current Weather** and **
 
 ### From source (recommended for development)
 ```bash
-git clone https://github.com/yourusername/sync_openweather_python_sdk.git
+git clone https://github.com/nkpythondeveloper/sync_openweather_python_sdk.git
 cd sync_openweather_python_sdk
 python -m venv .venv
 source .venv/bin/activate

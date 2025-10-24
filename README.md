@@ -1,3 +1,6 @@
+![PyPI version](https://img.shields.io/pypi/v/sync_openweather_python_sdk)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 # Sync OpenWeather Python SDK 🌦️
 
 A lightweight, synchronous Python SDK for [OpenWeatherMap API](https://openweathermap.org/api).  
